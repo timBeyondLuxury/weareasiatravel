@@ -2,5 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/weareasiatravel/public_html/
-    - /bin/cp -R waa $DEPLOYPATH
+    - /bin/cp -R wp-content $DEPLOYPATH
   
