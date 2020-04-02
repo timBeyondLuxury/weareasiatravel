@@ -13,7 +13,7 @@
 
 					<?php the_content(); ?>
 
-					test
+					test 2
 
 					<?php comments_template( '', true ); // Remove if you don't want comments ?>
 
